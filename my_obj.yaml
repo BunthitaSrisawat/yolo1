@@ -3,5 +3,5 @@ val: my_data_images_for_train/valid
 nc: 3
 names: ['glass',
         'doll',
-        'bottle'
+        'hat'
 ]
